@@ -19,7 +19,7 @@ export default {
 
   root: resolve(__dirname, ''),
   build: {
-    outDir: '../dist'
+    outDir: './dist'
   },
   server: {
     port: 5173
