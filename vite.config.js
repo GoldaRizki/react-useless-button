@@ -15,6 +15,7 @@ export default defineConfig({
 export default {
 
   plugins: [react()],
+  base: process.env.VITE_BASE_PATH || "/react-useless-button",
 
   root: resolve(__dirname, ''),
   build: {
