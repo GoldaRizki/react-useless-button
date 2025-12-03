@@ -10,6 +10,11 @@ Ini adalah project yang saya buat dengan react. Project ini saya buat karena say
 3. Yay! Kamu bisa tambah atau kurangi angka yang ada di tengah halaman dengan menekan tombol yang ada.
 4. Kamu bisa gunakan aplikasi ini untuk menghitung apa saja. Mulai dari menghitung kacang sampai menghitung dosamu 😂
 
+
+
+
+
+
 # Tech Stack
 
 ## React + Vite
